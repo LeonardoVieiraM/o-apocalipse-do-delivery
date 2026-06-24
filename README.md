@@ -1,9 +1,12 @@
 # O Apocalipse do Delivery
 
 Intrgrantes
-* Aluno 1
-* Aluno 2
-
+* André Xavier Lazarini
+* João Pedro Guimarães Ribeiro
+* Leonardo Vieira Machado
+* Lucas Flor Vilela
+* Marina Ferreira Sansão Cabalzar
+* Nicolas Almeida Prado da Silva
 
 Como as Fases se Conectam a este Código
 
