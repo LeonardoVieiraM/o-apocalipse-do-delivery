@@ -1,0 +1,22 @@
+{
+  "$schema": "./node_modules/@stryker-mutator/core/schema.json",
+  "packageManager": "npm",
+  "reporters": ["html", "clear-text", "progress"],
+  "testRunner": "jest",
+  "mutate": [
+    "src/services/CheckoutService.js",
+    "src/utils/CircuitBreaker.js"
+  ],
+  "ignorePatterns": [
+    "**/node_modules/**",
+    "**/test/**",
+    "**/coverage/**",
+    "**/reports/**"
+  ],
+  "thresholds": {
+    "high": 90,
+    "low": 80,
+    "break": 80
+  },
+  "timeoutMS": 5000
+}
