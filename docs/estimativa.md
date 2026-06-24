@@ -3,30 +3,18 @@
 
 | Componente | Complexidade | Peso | Qtd | Total |
 | ---------- | ------------ | ---- | --- | ----- |
-|Funcionalidades                                 |
-| ---------------------------------------------- |			
+|Funcionalidades                                 |	
 | Validação de entrada | Média | 3 | 2 | 6 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Processamento APROVADO | Alta	| 5 | 1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Processamento RECUSADO | Média | 3 | 1 | 3 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Timeout e Retry | Alta | 5 | 1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Circuit Breaker/Fallback | Alta | 5 | 1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Cache/Thundering Herd	Média	| 3 | 1 | 3 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Testes Não-Funcionais				             |
-| ---------------------------------------------- |	
 | Teste de Mutação | - | 5 | 1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Teste de Carga (k6)	| - | 5 |	1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 | Injeção de Falhas | - | 5 |	1 | 5 |
-| ---------- | ------------ | ---- | --- | ----- |
 |Total de Pontos				42               |
-| ---------------------------------------------- |
 
 ## Estimativa de Horas:
 1 ponto = 1.5 horas (considerando setup, execução e documentação)
