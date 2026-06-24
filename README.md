@@ -21,8 +21,8 @@ No arquivo server.js, a função gatewayPagamentoMock.cobrar simula uma promessa
 
 # Codigos para execução:
 - npm install: instala as dependências do projeto
-- choco install k6: instalção do k6
-- choco install toxiproxy: instalaão do toxiproxy
+- choco install k6: instalação do k6
+- choco install toxiproxy: instalação do toxiproxy
 - npm run start: inicia o servidor da aplicação
 - npm test: executa a suite de testes
 - npm run stryker: executa o stryker para identificação de mutantes
