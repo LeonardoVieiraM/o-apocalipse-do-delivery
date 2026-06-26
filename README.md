@@ -8,6 +8,8 @@ Intrgrantes
 * Marina Ferreira Sansão Cabalzar
 * Nicolas Almeida Prado da Silva
 
+Link vídeo: https://youtu.be/S2FSNkyALJk
+
 Como as Fases se Conectam a este Código
 
 **Fase 1 (Análise & Métricas)**
